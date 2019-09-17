@@ -1,0 +1,18 @@
+<p>&nbsp;</p>
+<form action="contact.php" method="POST"><fieldset><legend>Registrasi</legend>
+<p><label>Nama:</label> <input name="nama" type="text" placeholder="Nama lengkap..." /></p>
+<p><label>Jenis kelamin:</label> <label><input name="jenis_kelamin" type="radio" value="laki-laki" /> Laki-laki</label> <label><input name="jenis_kelamin" type="radio" value="perempuan" />Perempuan</label></p>
+<p><label>Alamat:</label> <input name="Alamat" type="text" placeholder="Alamat" /></p>
+<p><label>Negara:</label><select name="Indonesia">
+<option value="Indonesia">Indonesia</option>
+<option value="US">US</option>
+<option value="UK">UK</option>
+<option value="Rusia">Rusia</option>
+<option value="Maldives">Maldives</option>
+</select></p>
+<p><label>Email:</label> <input name="email" type="email" placeholder="Your email..." /></p>
+<input name="upload" type="file" value="" width="200" />
+<p><label>Password:</label> <input name="password" type="password" placeholder="Passowrd..." /></p>
+<p><label>komentar:</label> <textarea name="komentar"></textarea></p>
+<p><input name="submit" type="submit" value="Submit" /></p>
+</fieldset></form>

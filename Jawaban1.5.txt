@@ -1,0 +1,50 @@
+<p>Teknik Informatika | Web Programming 2 &middot;</p>
+<h1>Selamat Datang Di PraktikumOnline.com</h1>
+<h2>Web Untuk praktikum secara online</h2>
+<h3>Praktikum Pemrograman Web</h3>
+<p><a href="http://itera.ac.id"> Teknik Informatika ITERA </a> www.if.itera.ac.id</p>
+<p><label for="cari"><button>Cari</button></label> <input name="cari" type="search" /></p>
+<nav>
+<ul>
+<ul>
+<li><a href="#">Beranda</a></li>
+<li><a href="#">Info</a></li>
+<li><a href="#">Chat Me</a></li>
+<li><a href="#">Sharing</a></li>
+</ul>
+</ul>
+<img class="irc_mi" src="http://s1.picswalls.com/wallpapers/2015/09/27/digital-art-background_040941928_282.jpg" alt="" width="400" height="200" /></nav>
+<p><input name="upload" type="file" value="" width="300" /></p>
+<p>Bidang Minat:</p>
+<ul>
+<li>Sistem Informasi
+<ul>
+<li>Data Warehousing</li>
+<li>Enterprise Architecture</li>
+</ul>
+</li>
+<li>Multimedia
+<ul>
+<li>Komputer Grafik</li>
+<li>Machinema</li>
+</ul>
+</li>
+</ul>
+<table border="1" width="10">
+<thead>
+<tr>
+<th>NIM</th>
+<th>Mahasiswa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>123</td>
+<td>David</td>
+</tr>
+<tr>
+<td>124</td>
+<td>karen</td>
+</tr>
+</tbody>
+</table>
